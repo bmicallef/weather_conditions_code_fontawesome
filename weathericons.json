@@ -1,4 +1,7 @@
 		const weatherIcons = {
+		  "sunrise": { "description": "Sunrise", "icon": ["fa-light fa-sunrise"] },
+		  "sunset": { "description": "Sunset", "icon": ["fa-light fa-sunset"] },
+
 		  "200": { "description": "Thunderstorm with light rain", "icon": ["fa-light fa-cloud-bolt", "fa-thin fa-cloud-rain"] },
 		  "201": { "description": "Thunderstorm with rain", "icon": ["fa-light fa-cloud-bolt", "fa-light fa-cloud-rain"] },
 		  "202": { "description": "Thunderstorm with heavy rain", "icon": ["fa-light fa-cloud-bolt", "fa-regular fa-cloud-rain"] },
